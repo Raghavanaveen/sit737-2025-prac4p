@@ -21,3 +21,10 @@ Calculator Microservice
  * 6. Check logs:
  *    tail -f logs/combined.log
  */
+
+
+Implementation of Additional Arithmetic Operations
+
+
+The extended functionality includes exponentiation, square root, and modulo operations. It also details the error handling, logging, and GitHub submission process.
+
