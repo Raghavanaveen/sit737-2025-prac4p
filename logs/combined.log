@@ -1,0 +1,2 @@
+{"level":"info","message":"Calculator microservice running on port 3000","service":"calculator-microservice"}
+{"level":"info","message":"New add operation requested: 10 add 5","service":"calculator-microservice"}
